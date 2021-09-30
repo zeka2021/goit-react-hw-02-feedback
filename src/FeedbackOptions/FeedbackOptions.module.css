@@ -1,0 +1,18 @@
+.feedbackList {
+  display: flex;
+  flex-wrap: wrap;
+}
+.button {
+  margin-right: 20px;
+  background-color: seashell;
+  border: 1px solid #8b4513;
+  cursor: pointer;
+}
+.button:hover {
+  color: #a52a2a;
+  background-color: goldenrod;
+}
+.button:focus {
+  color: #a52a2a;
+  background-color: goldenrod;
+}
